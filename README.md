@@ -54,7 +54,9 @@ print(f"Predicted Value: {pre}")
 ```
 
 ## Output:
+### Xscaled values:
 ![Screenshot 2024-03-31 100824](https://github.com/VineelaShaik/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/144340862/c4674327-da64-48a8-8181-806518e913c2)
+### Yscaled values:
 ![Screenshot 2024-03-31 100838](https://github.com/VineelaShaik/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/144340862/c9833ffd-2901-4bd5-bfc1-ff9d86342ee7)
 
 
